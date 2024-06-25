@@ -9,3 +9,5 @@ x
 Happ/src/main/java/com/umesh/badge_drawable/fragment/DeliveredFragment.kt,0\5\0565104e4b4423563ac1e3cb4253894cd333e70e
 x
 Happ/src/main/java/com/umesh/badge_drawable/adapter/OrdersPagerAdapter.kt,2\c\2c8ed0aebb4a9ac5d145c3aba4a55399f7acb837
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e

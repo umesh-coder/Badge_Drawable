@@ -6,4 +6,7 @@
     <color name="colorAccent">#29B6F6</color>
     <color name="colorPrimaryDark">#EF5350</color>
     <color name="colorDivider">#ECECEC</color>
+
+    <color name="badgeColor">#E71D36</color>
+
 </resources>
